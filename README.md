@@ -2,7 +2,7 @@
 
 Zed theme featuring cool blues, minty greens, and soft purples.
 
-![Preview of Houston Theme](assets/preview.png)
+![Preview of Houston Theme](assets/preview.jpg)
 
 ## Issues
 
